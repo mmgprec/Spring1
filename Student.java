@@ -9,6 +9,7 @@ public class Student {
 	public void display() {
 		System.out.println("Student Roll No : "+rno);
 		System.out.println("Student Name : "+name);
+		// My contribution in this code
 	}
 	
 }
